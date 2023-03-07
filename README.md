@@ -1,4 +1,5 @@
 ### Hi there 👋
+At the moment, I keep all repositories private as requested by my school.
 
 <!--
 **RichardTarnowski/RichardTarnowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
